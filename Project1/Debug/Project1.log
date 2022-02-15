@@ -1,0 +1,20 @@
+﻿  codeGenerate.cpp
+  interpret.cpp
+d:\课程\大三\解释器实验\项目\project1\project1\interpret.h(83): warning C4018: “<”: 有符号/无符号不匹配
+d:\课程\大三\解释器实验\项目\project1\project1\interpret.h(115): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+d:\课程\大三\解释器实验\项目\project1\project1\interpret.cpp(264): warning C4101: “count”: 未引用的局部变量
+  main.cpp
+d:\课程\大三\解释器实验\项目\project1\project1\util.h(145): warning C4018: “<”: 有符号/无符号不匹配
+d:\课程\大三\解释器实验\项目\project1\project1\interpret.h(83): warning C4018: “<”: 有符号/无符号不匹配
+d:\课程\大三\解释器实验\项目\project1\project1\interpret.h(115): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  parse.cpp
+d:\课程\大三\解释器实验\项目\project1\project1\parse.cpp(41): warning C4018: “>”: 有符号/无符号不匹配
+d:\课程\大三\解释器实验\项目\project1\project1\parse.cpp(54): warning C4018: “>”: 有符号/无符号不匹配
+d:\课程\大三\解释器实验\项目\project1\project1\parse.cpp(62): warning C4018: “>”: 有符号/无符号不匹配
+d:\课程\大三\解释器实验\项目\project1\project1\parse.cpp(70): warning C4018: “>”: 有符号/无符号不匹配
+d:\课程\大三\解释器实验\项目\project1\project1\parse.cpp(78): warning C4018: “>”: 有符号/无符号不匹配
+d:\课程\大三\解释器实验\项目\project1\project1\parse.cpp(542): warning C4018: “<”: 有符号/无符号不匹配
+d:\课程\大三\解释器实验\项目\project1\project1\parse.cpp(555): warning C4018: “<”: 有符号/无符号不匹配
+d:\课程\大三\解释器实验\项目\project1\project1\parse.cpp(558): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Project1.vcxproj -> D:\课程\大三\解释器实验\项目\Project1\Debug\Project1.exe

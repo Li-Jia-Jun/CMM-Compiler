@@ -1,0 +1,28 @@
+int a, b, c = 3;
+a = 1;
+b = 2;
+
+if(a > b)			// Output 2 (b)
+	write a;
+else
+	write b;
+	
+a = a * 2 + 10;		// a == 12
+
+
+if(a > c)			// Output 666 (local a)
+{
+	int a = 666;
+	write a;
+}
+else
+	write c;
+
+	
+
+
+
+
+
+
+
